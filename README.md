@@ -18,4 +18,4 @@ In this project, our goal by the end of the semester was to provide our stakehol
 
 7. *Mrakdown file - powerpoint_link* - This document is a markdown file with a retrievable link to our groups presentation that will be presented on 12/03/24 
 
-
+8. JNP image files - please find both current and possible future state for the nicholas center workflow process
