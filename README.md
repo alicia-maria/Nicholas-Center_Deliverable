@@ -9,7 +9,7 @@ In this project, our goal by the end of the semester was to provide our stakehol
    
 2. PDF - *Ethnography Questions* - In this PDF, we utilized external resources and literature to explore ethnography-related questions aimed at investigating the end-user and participant environments and interactions. These external resources provided insights into engagement strategies for individuals with ASD, enabling us to adopt a comprehensive systems-thinking approach. This approach helped evaluate the quality-of-life application, including its current state and future workflow processes.
    
-4. PDF - *Enthography Answers* - In this pdf ,  you will find documentation of our on site visit to Port Washington
+4. PDF - *Nicholas Center Observation* - In this pdf ,  you will find documentation of our on site visit to Port Washington, We gathered a collective experience and answered the ethnography questions 
    
 5. *Nicholas Center Research Question* - In this PDF you will find research question that were defined at the begining of the project. Describing the stakeholder wants and needs that need to come out of the research and planning phase for implementation of additional software within their quality of life application.
 
